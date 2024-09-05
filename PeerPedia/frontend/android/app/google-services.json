@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073180398990",
+    "project_id": "peerpedia-777a2",
+    "storage_bucket": "peerpedia-777a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073180398990:android:45b7dcba6a4fe22f7700df",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf7L8E9WpNUakjH11qvNpFcSr0NUZRF_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

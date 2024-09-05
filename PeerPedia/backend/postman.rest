@@ -1,0 +1,5 @@
+post  http://localhost:3000/group/searchGroup
+content-type: application/json
+# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFtcnV0aCIsImVtYWlsIjoiYW1ydXRoQGdtYWlsLmNvbSIsImlhdCI6MTcwOTI0MDA2NX0.CDFmaN_-Uxnp4c468xMuZdn8v1zcwoETuUb_ZJGuJOo
+
+{ "groupName": "S"}
